@@ -36,7 +36,7 @@ def monopoly_with_third_tier
     {
       :reading_railroad=>
       {
-        "mortgage_value"=>"$100"
+        " "
       },
 	  
 	  :rent_in_dollars=>
